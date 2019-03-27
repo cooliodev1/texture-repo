@@ -1,5 +1,4 @@
 # texture-repo
 
-- Extract the `textures/` directory to your `<gamedir>/fortress/` path
-- Extract `mapgroups.cfg` to `<gamedir>/fortress/` path
-- Append `exec mapgroups.cfg` to your config
+- Extract the `fortress/` directory to FortressOne game directory
+- Append `exec cfg/mapgroups.cfg` to `fortress/autoexec.cfg`
